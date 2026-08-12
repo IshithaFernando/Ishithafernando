@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Ishitha 👋
 
-<!--
-**IshithaFernando/Ishithafernando** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computing student interested in cybersecurity and technology.
 
-Here are some ideas to get you started:
+🌱 Currently learning:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Programming
+* Python
+* Computer Networking
+* Linux
+
+💻 Interested in:
+
+* Cybersecurity
+* Technology
+* Software Development
+
+📚 Currently studying and building my skills through projects and hands-on learning.
+
+### Connect with me
+
+* LinkedIn: [Ishitha Fernando](https://www.linkedin.com/in/ishitha-fernando-0b1a3a377?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
